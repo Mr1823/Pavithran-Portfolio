@@ -1,74 +1,113 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-black.png">
-  <img alt="Siam Ahnaf" src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/logo-black.png" height="auto" width="240">
-</picture>
+# Pavithran S — Portfolio
 
-# Agency portfolio
-Agency portfolio is a static nextjs portfolio template build with nextjs, material-ui and designed for any digital agency. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations.
+Personal developer portfolio for **Pavithran S**, a Full Stack & Android Developer and Founder of [BuildWithUs](https://www.buildwithus.co.in). Built with Next.js, Material UI, and Framer Motion.
 
-## Live demo
-https://venerable-chimera-df09e2.netlify.app/
+## ✨ Sections
 
-## Run Locally
-- **Download:** Start by downloading the code.
-- **Install Dependencies:** Run `npm i` to install the necessary dependencies.
-- **Launch:** Launch your development environment with `npm run dev`.
-- **Access:** Simply open your web browser and navigate to `localhost:3000`.
+| Section | Description |
+|---------|-------------|
+| **Hero** | Animated intro with tagline, stats, and CTA buttons |
+| **About** | Bio, quick facts (CGPA, year, clients, internships), and education timeline |
+| **Services** | Full Stack Web, Mobile App, and AI/ML development offerings |
+| **Technologies** | Categorised tech stack — Languages, Web, Mobile, Data & Backend, AI & Vision, Tools |
+| **Portfolio** | Featured client projects (Sri Ram Jewellery, Manisha Fashions) and personal builds (Kanakku Pulla, Marcus AI, AirPlay, PraiseShow) |
+| **Experience** | Work timeline — AI Product Engineering Intern at Straw Labs, Founder at BuildWithUs, Intern at Lamda Tech Softics |
+| **Why Us** | Value propositions and differentiators |
+| **Process** | Development workflow breakdown |
+| **Achievements** | Contest wins & certifications (Cisco, Anthropic, Microsoft) |
+| **Contact** | Contact form powered by EmailJS |
+| **Footer** | Social links and quick navigation |
 
-## Key features
-- Created with NextJS and Material UI
-- Specially designed for any digital agency
-- Beautiful interactive design
-- All necessary sections
-- Beautiful UI
+## 🛠 Tech Stack
 
-## Tech Toolset
-- React.js
-- Next.js
-- Material UI
-  
-<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/react.png" width="34px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/nextjs.png" width="135px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/mui.png" width="30px" height="30px" />
+| Layer | Technologies |
+|-------|-------------|
+| **Framework** | [Next.js 16](https://nextjs.org/) (Pages Router) |
+| **UI Library** | [MUI v9](https://mui.com/) (Material UI) with Emotion |
+| **Animations** | [Framer Motion](https://www.framer.com/motion/) |
+| **Forms** | [React Hook Form](https://react-hook-form.com/) |
+| **Email** | [EmailJS](https://www.emailjs.com/) |
+| **Scrolling** | [React Scroll](https://www.npmjs.com/package/react-scroll) |
+| **Linting** | ESLint with `eslint-config-next` |
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/screenshots/agency-portfolio.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
+## 🚀 Getting Started
 
-## Webinuxs
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/webinuxs-logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/webinuxs-logo-black.png">
-  <img alt="Siam Ahnaf" src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/logo/webinuxs-logo-black.png" height="auto" width="140">
-</picture> <br/>
-Explore Webinuxs, where we bring your web and mobile app applications to life at competitive prices. Our dedicated team is committed to delivering exceptional quality and innovative web and mobile application as your needs.
+### Prerequisites
 
-## Support
-Need assistance? Drop me a line at mail@siamahnaf.com or hop on over to my lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/whatsapp.png" width="15" height="15"></a> messenger.
+- **Node.js** ≥ 18
+- **npm** (comes with Node)
 
-## Author(s)
-- [www.siamahnaf.com](https://www.siamahnaf.com/)
+### Install & Run
 
-## Who I am?
-I'm Siam Ahnaf, a passionate developer who loves to learn new things and create awesome projects. I enjoy working on front-end, back-end, and mobile app development and have experience with various programming languages and frameworks.
+```bash
+# Clone the repository
+git clone https://github.com/Mr1823/Pavithran-Portfolio.git
+cd Pavithran-Portfolio
 
-- **Frontend Development**
-I specialize in creating custom web and mobile applications as your unique needs and requirements.
-- **Backend Development**
-My backend development services cover everything from database design to server-side logic.
-- **Cloud Services**
-I take care of deploying your web applications to production environments securely.
+# Install dependencies
+npm install
 
-## Connect with me
-<div style="display: flex; align-items: center; gap: 3px;">
-<a href="https://wa.me/8801611994403"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/whatsapp.png" width="40" height="40"></a>
-<a href="https://siamahnaf.com/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/web.png" width="40" height="40"></a>
-<a href="https://www.linkedin.com/in/siamahnaf/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/linkedin.png" width="40" height="40"></a>
-<a href="https://x.com/siamahnaf198" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/x.png" width="40" height="40"></a>
-<a href="https://www.facebook.com/siamahnaf198/" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/facebook.png" width="40" height="40"></a>
-<a href="https://t.me/siamahnaf198" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/telegram.png" width="40" height="40"></a>
-<a href="https://www.npmjs.com/~siamahnaf" style="margin-right: 8px"><img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/icons/npm.png" width="40" height="40"></a>
-</div>
+# Start the dev server
+npm run dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-------------
+### Build for Production
 
-<p align="center" color="red"><a href="https://www.siamahnaf.com/">www.siamahnaf.com</a></p>
+```bash
+npm run build
+npm start
+```
+
+## 📁 Project Structure
+
+```
+├── public/
+│   ├── favicon.svg
+│   └── Pavithran_S_Resume.pdf
+├── src/
+│   ├── Assets/          # Images and static assets
+│   ├── Components/      # Reusable UI components (Header, Hero, Contact, Services)
+│   ├── Data/            # Centralised content data
+│   │   ├── Profile.data.js       # Name, contact, socials, stats
+│   │   ├── Experience.data.js    # Work experience & education
+│   │   ├── Projects.data.js      # Portfolio projects
+│   │   ├── Achievements.data.js  # Awards & certifications
+│   │   └── Services/             # Service offerings
+│   ├── Emotion/         # MUI Emotion cache setup
+│   ├── Section/         # Page sections (Hero, About, Services, etc.)
+│   ├── Theme/           # MUI theme configuration
+│   ├── Utilis/          # Shared utilities (Heads, SectionHeading, etc.)
+│   └── pages/           # Next.js pages
+│       ├── _app.js
+│       ├── _document.js
+│       └── index.js
+├── package.json
+├── next.config.js
+└── eslint.config.mjs
+```
+
+> **Tip:** All personal data is centralised in `src/Data/`. Edit the data files to update content across the entire site — no need to touch individual section components.
+
+## 📝 Customisation
+
+| What to change | Where |
+|----------------|-------|
+| Name, title, contact, socials | `src/Data/Profile.data.js` |
+| Work experience & education | `src/Data/Experience.data.js` |
+| Portfolio projects | `src/Data/Projects.data.js` |
+| Awards & certifications | `src/Data/Achievements.data.js` |
+| Service offerings | `src/Data/Services/Services.data.js` |
+| Theme colours & typography | `src/Theme/` |
+| Resume PDF | `public/Pavithran_S_Resume.pdf` |
+
+## 📄 License
+
+This project is licensed under a custom license — see [LICENSE.md](LICENSE.md) for details.
+
+**Original template** by [Siam Ahnaf](https://www.siamahnaf.com/).
+
+---
+
+**Pavithran S** · [GitHub](https://github.com/Pavithran1823) · [LinkedIn](https://www.linkedin.com/in/paviofficial) · [BuildWithUs](https://www.buildwithus.co.in) · [pavithran@buildwithus.co.in](mailto:pavithran@buildwithus.co.in)
