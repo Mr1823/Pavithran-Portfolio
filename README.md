@@ -102,12 +102,4 @@ npm start
 | Theme colours & typography | `src/Theme/` |
 | Resume PDF | `public/Pavithran_S_Resume.pdf` |
 
-## 📄 License
-
-This project is licensed under a custom license — see [LICENSE.md](LICENSE.md) for details.
-
-**Original template** by [Siam Ahnaf](https://www.siamahnaf.com/).
-
----
-
 **Pavithran S** · [GitHub](https://github.com/Pavithran1823) · [LinkedIn](https://www.linkedin.com/in/paviofficial) · [BuildWithUs](https://www.buildwithus.co.in) · [pavithran@buildwithus.co.in](mailto:pavithran@buildwithus.co.in)
